@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Name": "Lovely house",
+    "Type": "House",
+    "Price": 12000
+  },
+  {
+    "Id": 2,
+    "Name": "Lovely villa",
+    "Type": "Villa",
+    "Price": 24000
+  },
+  {
+    "Id": 3,
+    "Name": "Lovely apartment",
+    "Type": "Apartment",
+    "Price": 6000
+  },
+  {
+    "Id": 4,
+    "Name": "Beautiful house",
+    "Type": "House",
+    "Price": 18000
+  },
+  {
+    "Id": 5,
+    "Name": "Beautiful villa",
+    "Type": "Villa",
+    "Price": 30000
+  },
+  {
+    "Id": 6,
+    "Name": "Beautiful apartment",
+    "Type": "Apartment",
+    "Price": 7500
+  }
+]
